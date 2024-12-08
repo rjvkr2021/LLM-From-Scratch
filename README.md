@@ -1,2 +1,2 @@
 # LLM From Scratch
-This reposiory contains implementation of a LLM from scratch following the book **[Build a Large Language Model (From Scratch)](https://mng.bz/M96o)** by **[Sebastian Raschka](https://sebastianraschka.com/)**
+This repository contains implementation of a LLM from scratch following the book **[Build a Large Language Model (From Scratch)](https://mng.bz/M96o)** by **[Sebastian Raschka](https://sebastianraschka.com/)**
